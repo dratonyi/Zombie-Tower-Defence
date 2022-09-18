@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/timerFont.spritefont</SourceFile>
+  <SourceTime>2022-01-23T13:27:12-05:00</SourceTime>
+  <DestFile>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/bin/Debug/Content/Fonts/timerFont.xnb</DestFile>
+  <DestTime>2022-01-23T22:57:38-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T15:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T15:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

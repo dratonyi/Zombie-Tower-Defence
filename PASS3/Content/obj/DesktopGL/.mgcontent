@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/costFont.spritefont</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/nameFt.spritefont</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/scoreboardFt.spritefont</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/scoreFt.spritefont</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/searchFt.spritefont</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/timerFont.spritefont</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Fonts/UiFont.spritefont</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Animations/bigZombieAnimX.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Animations/bigZombieAnimY.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Animations/birdAnimX.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Animations/birdAnimY.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Animations/zombieMovingX.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Animations/zombieMovingY.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/menuBackground.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/playBg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/scoreboardBg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/scoreboardBg3D.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/airTowerImg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/backBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/backBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/cannonBall.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/clearBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/clearBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/crossbowIcon.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/crossbowIconSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/emptyTile.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/exitBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/exitBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/gameOverImg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/instructionsBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/instructionsBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/leftBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/leftBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/lumberMillIcon.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/lumberMillIconSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/menuBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/menuBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/millImg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/mineIcon.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/mineIconSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/mineImg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/nameBar.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/pathTile.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/playBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/playButton.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/resumeBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/resumeBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/rightBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/rightBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/scoreBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/scoreBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/searchBar.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/searchBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/searchBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/settingsBt.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/settingsBtSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/stoneIcon.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/titleImg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/towerIcon.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/towerIconSel.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/towerImg.png</File>
+    <File>E:/ICS4U/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/woodIcon.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

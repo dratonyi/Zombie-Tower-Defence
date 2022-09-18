@@ -1,0 +1,9 @@
+E,E,E,E,E,E,P,E,E
+E,E,E,E,E,E,P,E,E
+P,P,P,E,E,E,P,E,E
+P,E,P,P,P,P,P,E,E
+P,E,E,E,E,E,E,E,E	
+P,P,P,P,E,E,E,E,E
+E,E,E,P,E,E,E,E,E
+E,E,E,P,E,E,E,E,E
+7,3;5,3;5,0;2,0;2,2;3,2;3,6;0,6
